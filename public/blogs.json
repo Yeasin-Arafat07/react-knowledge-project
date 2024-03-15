@@ -1,0 +1,53 @@
+[
+    {
+      "id": "001",
+      "cover": "https://ibb.co/qB43rh6",
+      "title": "Personal Website Redesign",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/q5wYK1J/malailam.png",
+      "posted_date": "March 10, 2024",
+      "hashtag": "#WebDesign #Portfolio #Redesign",
+      "reading_time": 5 
+    },
+    {
+      "id": "002",
+      "cover": "https://i.ibb.co/gg7GPMw/hgf.png",
+      "title": "Mobile App Development",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/PmTLMDy/priscilla-du-preez-l-So-M34-Hj-M2-I-unsplash.jpg",
+      "posted_date": "February 25, 2024",
+      "hashtag": "#MobileApp #Development #iOS #Android",
+      "reading_time": 7 
+    },
+    {
+      "id": "101",
+      "cover": "https://i.ibb.co/gg7GPMw/hgf.png",
+      "title": "The Importance of User Experience in Web Design",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/Y2y0BZf/priscilla-du-preez-8fdsux4-Xg-DQ-unsplash.jpg",
+      "posted_date": "March 5, 2024",
+      "hashtag": "#UX #WebDesign #UserExperience",
+      "reading_time": 8 
+    },
+    {
+      "id": "102",
+      "cover": "https://i.ibb.co/vJ8ZJbZ/iik.png",
+      "title": "Top Trends in Artificial Intelligence for 2024",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co/LQYK7Bm/tyler-casey-pr-Gp-PEf-C668-unsplash.jpg",
+      "posted_date": "February 20, 2024",
+      "hashtag": "#AI #Trends #Technology",
+      "reading_time": 6 
+    },
+    {
+      "id": "103",
+      "cover": "https://i.ibb.co/MRMNdTj/jhg.png",
+      "title": "Mastering Time Management: Tips for Increased Productivity",
+      "author": "Alex Lee",
+      "author_img": "https://i.ibb.co/d4jCSj3/leohoho-kd-RYyp-QHm9o-unsplash.jpg",
+      "posted_date": "March 1, 2024",
+      "hashtag": "#Productivity #TimeManagement #SelfImprovement",
+      "reading_time": 10
+    }
+  ]
+  
